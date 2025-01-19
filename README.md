@@ -1,7 +1,7 @@
 # Hi, I'm MAVERICK400x
 
 👋 Hi, I’m **@MAVERICK400x**  
-- Passionate about Simulation  
+- Passionate about Simulation games
 - Currently learning Full Stack Web Development  
 - Looking to collaborate on Frontend Projects  
 
