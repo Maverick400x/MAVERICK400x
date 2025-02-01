@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **srinivsa ranganath0x** 🚀
+# 👋 Hi, I’m **srinivasa ranganath0x** 🚀
 
 - Passionate about **Simulation**  
 - Currently diving into **Full Stack Web Development**  
