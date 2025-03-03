@@ -32,10 +32,6 @@
 
 ---
 
-## 🚀 Projects:  
-- [E-commerce Website](https://github.com/MAVERICK400x/ecommerce-website)  
-- [Hotel Management System](https://github.com/MAVERICK400x/hotel-management)  
-
 ---
 
 🔥 Let's connect and build something amazing! 🚀  
