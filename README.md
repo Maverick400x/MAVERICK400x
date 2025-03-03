@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **srinivasa ranganath0x** 🚀
+# 👋 Hi, I’m **Srinivasa Ranganath0x** 🚀  
 
 - Passionate about **Simulation**  
 - Currently diving into **Full Stack Web Development**  
@@ -6,31 +6,36 @@
 
 ---
 
-### 📫 How to reach me:  
+## 📫 How to reach me:  
 - **Email**: [ranganathsrinivasa95@gmail.com](mailto:ranganathsrinivasa95@gmail.com)  
-- **LinkedIn**: [B. Srinivasa Ranganath](https://www.linkedin.com/in/b-srinivasa-ranganath-b3562b329)
+- **LinkedIn**: [B. Srinivasa Ranganath](https://www.linkedin.com/in/b-srinivasa-ranganath-b3562b329)  
+- **GeeksforGeeks**: [My Profile](https://auth.geeksforgeeks.org/user/MAVERICK400x)  
 
 ---
 
-### 😄 Pronouns:  
-- He/Him
+## 😄 Pronouns:  
+- He/Him  
 
 ---
 
-### ⚡ Fun fact:  
-- **TFI kattu banisa** 😄
+## ⚡ Fun fact:  
+- **TFI kattu banisa** 😄  
 
 ---
 
-### 🛠️ Skills:
-- HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, TypeScript, and more.
+## 🛠️ Skills:  
+- **Languages**: HTML, CSS, JavaScript, Python, TypeScript  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Tools**: Git, GitHub, VS Code, Postman  
 
 ---
 
-### Projects:
-
-making soon
-- [E-commerce Website](https://github.com/MAVERICK400x/ecommerce-website)
-- [Hotel Management System](https://github.com/MAVERICK400x/hotel-management)
+## 🚀 Projects:  
+- [E-commerce Website](https://github.com/MAVERICK400x/ecommerce-website)  
+- [Hotel Management System](https://github.com/MAVERICK400x/hotel-management)  
 
 ---
+
+🔥 Let's connect and build something amazing! 🚀  
