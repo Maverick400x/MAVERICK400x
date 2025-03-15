@@ -9,7 +9,8 @@
 ## 📫 How to reach me:  
 - 📧 **Email**: [ranganathsrinivasa95@gmail.com](mailto:ranganathsrinivasa95@gmail.com)  
 - 💼 **LinkedIn**: [B. Srinivasa Ranganath](https://www.linkedin.com/in/b-srinivasa-ranganath-b3562b329)  
-- 📚 **GeeksforGeeks**: [My Profile](https://www.geeksforgeeks.org/user/srininivasa_ranganath/)  
+- 📚 **GeeksforGeeks**: [My Profile](https://www.geeksforgeeks.org/user/srininivasa_ranganath/)
+- - 📚 **Code360**: [My Profile](https://www.naukri.com/code360/profile/topgun)  
 
 ---
 
