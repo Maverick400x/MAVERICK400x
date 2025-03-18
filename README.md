@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Srinivasa Ranganath** 🚀  
 
-- Passionate about **Simulation**  
+- Passionate about **Simulation Games **  
 - Currently diving into **Full Stack Web Development and Data Science**  
 - Always open to collaborate on **Frontend Projects**  
 
