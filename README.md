@@ -36,9 +36,9 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitTiwari-20&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshitTiwari-20&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitTiwari-20&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -59,7 +59,6 @@
 - 🧮 A **Finance Tracker** with a MongoDB Repository Pattern  
 - 📚 A **Student Management System** with Aggregation, Indexing  
 - 📈 A **Live Stock Market Dashboard** with Real-Time Data & WebSockets  
-- ☁️ **CryptoWeather Nexus**: A multi-API dashboard with React + Redux  
 
 ---
 
@@ -77,7 +76,7 @@
 ### 📈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=HarshitTiwari-20&style=flat-square&color=blue" alt="Visitor count"/>
 </p>
 
 ---
