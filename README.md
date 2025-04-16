@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm Srinivasa Ranganath 🚀</h1>
 
 <p align="center">
-  <i>Full Stack Web Developer | Data Science Explorer | Simulation Geek | Web3 Learner</i>
+  <i>Full Stack Web Developer | Simulation Geek | Web3 Learner</i>
 </p>
 
 ---
