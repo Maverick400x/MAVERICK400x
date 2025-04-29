@@ -77,6 +77,16 @@
 
 ---
 
+### 📄 View My Resume
+
+<p align="center">
+  <a href="https://www.overleaf.com/read/rjffpzvkmpbg#b98403" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Overleaf-blue?style=for-the-badge&logo=latex&logoColor=white" alt="Resume Link">
+  </a>
+</p>
+
+---
+
 ### 📈 Visitor Count
 
 <p align="center">
