@@ -44,7 +44,10 @@
 </p>
 
 ---
+### 🔥 Leetcode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/uInn4XILyH/)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/uInn4XILyH/)
 ---
 
 ### 💡 Ask Me About
