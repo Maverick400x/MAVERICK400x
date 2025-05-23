@@ -44,11 +44,23 @@
 </p>
 
 ---
-### 🔥 Leetcode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/uInn4XILyH/)
 
-### 🔥 daily streak
-[![LeetCode Stats](https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/uInn4XILyH/)
+### 🔥 Leetcode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/uInn4XILyH/">
+    <img src="https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" />
+  </a>
+</p>
+
+### 🔥 Daily Streak
+
+<p align="center">
+  <a href="https://leetcode.com/u/uInn4XILyH/">
+    <img src="https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Daily Streak" />
+  </a>
+</p>
+
 ---
 
 ### 💡 Ask Me About
