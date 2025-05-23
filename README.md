@@ -48,6 +48,10 @@
 ### 🔥 Leetcode Stats
 
 <p align="center">
+  <strong>Username:</strong> <code>@uInn4XILyH</code>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/uInn4XILyH/">
     <img src="https://leetcard.jacoblin.cool/uInn4XILyH?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" />
   </a>
