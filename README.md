@@ -21,7 +21,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranganathsrinivasa95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-srinivasa-ranganath-b3562b329)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/srininivasa_ranganath/)
 [![Code360](https://img.shields.io/badge/Code360-orange?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/topgun)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/uInn4XILyH/)
 
